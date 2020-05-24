@@ -1,0 +1,6 @@
+rootProject.name='FontAwesomeIcon'
+
+include ':font-awesome-icon'
+//include ':app'
+include ':sample'
+include ':font-awesome-glide'
